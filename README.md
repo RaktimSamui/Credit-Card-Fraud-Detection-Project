@@ -20,3 +20,4 @@
 ![Screenshot (89)](https://user-images.githubusercontent.com/116963622/216037939-91c4451a-fd08-477e-a225-a6ed95c6fb22.png)
 ![Screenshot (90)](https://user-images.githubusercontent.com/116963622/216038052-82cb715d-5a55-4662-84c4-bc55479268c7.png)
 ![Screenshot (91)](https://user-images.githubusercontent.com/116963622/216038193-fbca088b-861e-4f06-a62b-c91186f2680e.png)
+However the work did not end here, i wanted to use some advanced packages and algorithms on the data but my hardware was not enough for that kind of stuff so i exported the data and took the workflow to google colab to carry out rest of the stuff.
